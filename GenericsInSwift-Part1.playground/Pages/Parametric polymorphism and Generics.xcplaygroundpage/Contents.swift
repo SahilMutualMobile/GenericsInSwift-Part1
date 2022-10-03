@@ -49,13 +49,14 @@ class PizzaShop {
 }
 
 //Usage
+//Pizza orders
 var myOrder = PizzaShop()
 myOrder.prepare(type: PizzaType.margherita)
 var myOrder2 = PizzaShop()
 myOrder2.prepare(type: PizzaType.farmhouse)
 var myOrder3 = PizzaShop()
 myOrder3.prepare(type: PizzaType.goldenCorn)
-
+//Side dish orders
 var myOrder4 = PizzaShop()
 myOrder4.prepare(type: SideDishType.calzone)
 var myOrder5 = PizzaShop()
