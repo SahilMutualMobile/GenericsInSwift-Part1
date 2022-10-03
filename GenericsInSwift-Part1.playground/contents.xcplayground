@@ -3,6 +3,6 @@
     <pages>
         <page name='Sub-type polymorphism'/>
         <page name='Ad-hoc polymorphism'/>
-        <page name='Parametric polymorphism'/>
+        <page name='Parametric polymorphism and Generics'/>
     </pages>
 </playground>
